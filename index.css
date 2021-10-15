@@ -1,0 +1,58 @@
+
+.trangchu{
+    background:url('https://img.freepik.com/free-vector/paper-style-wh…ome-background_23-2149012950.jpg?size=626&ext=jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+.navbar-menu{
+    display:flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.gioithieu-header{
+    width: 100%;
+    text-align: center;
+    padding: 24px 0;
+}
+.nd-trangchu{
+    padding: 0 10%;
+}
+.navbar-light {
+    background-color: skyblue;
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: white !important;
+}
+i{
+    padding: 0 12px;
+}
+.gioithieu-top{
+   display: flex;
+
+}
+.nd-hocphan{
+    padding: 24px;
+    margin: 24px 15%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.nd-hocphan-header{
+    text-align: center;
+    width: 100%;
+}
+.body{
+    min-height: 100vh;
+}
+.footer{
+    margin-top: 24px;
+    padding: 12px;
+   text-align: center;
+   
+}
+            
+.active{
+    background-color: rgb(52, 173, 221);
+    font-weight: bold;
+}
